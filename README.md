@@ -1,2 +1,2 @@
 # nafis
-nafis repo
+nafis repo for git commands demonstration
